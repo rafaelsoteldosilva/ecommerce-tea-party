@@ -27,7 +27,7 @@ User Wishlist
 Show the user product suggestions based on previous orders  
 Newsletter  
 
-## Main used Technologies
+## Main Technologies used
 
 ReactJs  
 Redux  
