@@ -4,12 +4,13 @@
 
 # Complete ECommerce Solution
 
-## With this development, you will be able to
+## With this development, the team was able to:
 
 - Build a Javascript based app from scratch
 - Use the GIT workflow
 - Get familiarized with the SCRUM Agile Methodology
 - Team work
+- Use diverse technologies
 
 ## Application Main Features
 
